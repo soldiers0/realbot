@@ -1,0 +1,15 @@
+steampy
+aiofile
+rsa
+selenium
+databases
+psycopg
+datetime
+aiohttp
+psycopg2-binary
+asyncpg
+pyzmq
+pyTelegramBotApi
+pandas
+scipy
+matplotlib
