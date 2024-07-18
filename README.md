@@ -24,7 +24,7 @@ For anyone who has found this project, and is looking to implement something sim
 ## csgofloat
 
 Csgofloat used to have an open api for fetching float and pattern values for different items. The self-hosted solution was adapted by this code, but without the economy-of-scale advantage of caching the whole market, the speed was not satisfactory.
-The interesting fact is that doppler phases can actually be distinguished by the picture displayed with the listing, which is probably alread exploited by hundreds if not thousands of other bots.
+The interesting fact is that doppler phases can actually be distinguished by the picture displayed with the listing, which is probably already exploited by hundreds if not thousands of other bots.
 [Here](csgofloat.py?plain=1#L43) is how it works, not all that complicated.
 
 ## steam returning cached pages
