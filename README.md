@@ -29,7 +29,7 @@ The interesting fact is that doppler phases can actually be distinguished by the
 
 ## steam returning cached pages
 
-This is the main problem. Since about 2022 steam started more aggressively returning cached versions of market pages, thus making the race the be the first to find an item very inconsistent. There has to be a work-around this problem, in my own testing 
+This is the main problem. Since about 2022 steam started more aggressively returning cached versions of market pages, thus making the race the be the first to find an item very inconsistent. There has to be a work-around for this problem, in my own testing 
 requesting a page from a logged-in account helps. Diversifying the proxy-geography might also help.
 
 If these problems were to be solved, this kind of system couldan turn good consistent profit, even without going for blue-chips item like dopplers or case-hardened knives. 
